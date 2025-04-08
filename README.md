@@ -8,7 +8,7 @@
 
 --ცოდნა და ტექნოლოგიები:
 
- ✅ HTML5 / CSS3  
+ ✅ HTML / CSS  
  ✅ Mobile-Friendly დიზაინი (Responsive Design)  
  ✅ Flexbox / Grid  
  ✅ ძირითადი JavaScript  
